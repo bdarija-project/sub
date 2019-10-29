@@ -2,21 +2,26 @@
     {
             "name": "Rick and Morty",
             "imglink": "https://raw.githubusercontent.com/bdarija-project/sub/master/Rick and Morty/poster.jpg",
-            "link": "/p/rick-and-morty.html"
+            "tempuri": "rick-and-morty",
+            "story": "ريك سانشيز عالم عبقري مدمن على الكحول، ينتقل إلى بيت عائلة ابنته بيث، طبيبة بيطرية وجراحة حيوانات. يقضي ريك وقته في العمل على مشاريعه الغامضة والذهاب في مغامرات خطرة في جميع أنحاء الكون مع حفيدة مورتي ومع حفيدته سمر في بعض الأحيان.",
+            "status": "مستمر",
+            "progress":"30"
     },
     {
-            "name": "Rick and Morty S1",
+            "name": "Rick and Morty complete",
             "imglink": "https://raw.githubusercontent.com/bdarija-project/sub/master/Rick and Morty/poster.jpg",
-            "link": "/p/rick-and-morty.html"
+            "tempuri": "rick-and-morty-complete",
+            "story": "ريك سانشيز عالم عبقري مدمن على الكحول، ينتقل إلى بيت عائلة ابنته بيث، طبيبة بيطرية وجراحة حيوانات. يقضي ريك وقته في العمل على مشاريعه الغامضة والذهاب في مغامرات خطرة في جميع أنحاء الكون مع حفيدة مورتي ومع حفيدته سمر في بعض الأحيان.",
+            "status": "complete",
+            "progress":"20"
+
     },
     {
             "name": "Rick and Morty S2",
             "imglink": "https://raw.githubusercontent.com/bdarija-project/sub/master/Rick and Morty/poster.jpg",
-            "link": "/p/rick-and-morty.html"
-    },
-    {
-            "name": "Rick and Morty S3",
-            "imglink": "https://raw.githubusercontent.com/bdarija-project/sub/master/Rick and Morty/poster.jpg",
-            "link": "/p/rick-and-morty.html"
+            "tempuri": "rick-and-morty",
+            "story": "ريك سانشيز عالم عبقري مدمن على الكحول، ينتقل إلى بيت عائلة ابنته بيث، طبيبة بيطرية وجراحة حيوانات. يقضي ريك وقته في العمل على مشاريعه الغامضة والذهاب في مغامرات خطرة في جميع أنحاء الكون مع حفيدة مورتي ومع حفيدته سمر في بعض الأحيان.",
+            "status": "مستمر",
+            "progress":"50"
     }
 ]
