@@ -1,0 +1,22 @@
+[
+    {
+            "name": "Rick and Morty",
+            "imglink": "https://raw.githubusercontent.com/bdarija-project/sub/master/Rick and Morty/poster.jpg",
+            "link": "/p/rick-and-morty.html"
+    },
+    {
+            "name": "Rick and Morty S1",
+            "imglink": "https://raw.githubusercontent.com/bdarija-project/sub/master/Rick and Morty/poster.jpg",
+            "link": "/p/rick-and-morty.html"
+    },
+    {
+            "name": "Rick and Morty S2",
+            "imglink": "https://raw.githubusercontent.com/bdarija-project/sub/master/Rick and Morty/poster.jpg",
+            "link": "/p/rick-and-morty.html"
+    },
+    {
+            "name": "Rick and Morty S3",
+            "imglink": "https://raw.githubusercontent.com/bdarija-project/sub/master/Rick and Morty/poster.jpg",
+            "link": "/p/rick-and-morty.html"
+    }
+]
