@@ -8,8 +8,8 @@
     "progress":"",
     "seasons":3,
     "seasons_progress":[
-        {"season":"1","progress":"مستمر","tempuri":"rick-and-morty-s1"}
-        {"season":"2","progress":"مستمر","tempuri":"rick-and-morty-s2"}
+        {"season":"1","progress":"مستمر","tempuri":"rick-and-morty-s1"},
+        {"season":"2","progress":"مستمر","tempuri":"rick-and-morty-s2"},
         {"season":"3","progress":"مستمر","tempuri":"rick-and-morty-s3"}
     ]
 }
