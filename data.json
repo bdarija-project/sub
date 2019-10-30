@@ -2,6 +2,7 @@
     {
             "name": "Rick and Morty",
             "tempuri": "rick-and-morty",
+            "genres":" #مغامرة ، #انيميشن ، #كوميديا ، #خيال_علمي ",
             "story": "ريك سانشيز عالم عبقري مدمن على الكحول، ينتقل إلى بيت عائلة ابنته بيث، طبيبة بيطرية وجراحة حيوانات. يقضي ريك وقته في العمل على مشاريعه الغامضة والذهاب في مغامرات خطرة في جميع أنحاء الكون مع حفيدة مورتي ومع حفيدته سمر في بعض الأحيان.",
             "status": "مستمر",
             "progress":"0"
@@ -9,6 +10,7 @@
     {
             "name": "Misfits",
             "tempuri": "misfits",
+            "genres":" #كوميديا ، #دراما , #فنتازيا ",
             "story": "When five young outsiders on Community Service get caught in a strange storm they discover that they have developed superpowers.",
             "status": "مستمر",
             "progress":"0"
