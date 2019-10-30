@@ -10,8 +10,8 @@
     "seasons_progress":[
         {"name":"1","progress":"مستمر","tempuri":"misfits-s1"},
         {"name":"2","progress":"مستمر","tempuri":"misfits-s2"},
-        {"name":"3","progress":"مستمر","tempuri":"misfits-s3"}
-        {"name":"4","progress":"مستمر","tempuri":"misfits-s3"}
+        {"name":"3","progress":"مستمر","tempuri":"misfits-s3"},
+        {"name":"4","progress":"مستمر","tempuri":"misfits-s3"},
         {"name":"5","progress":"مستمر","tempuri":"misfits-s3"}
     ]
 }
